@@ -14,9 +14,15 @@ Open source data from Instacart and a customer data set created for the purpose 
 This project uses Excel and Python. Essentially, the following tools/libraries was employed in python
 
 Anaconda 3
+
 Jupyter Notebook
+
 Pandas
+
 Seaborn
+
 Matplotlib
+
 Scipy
+
 Numpy
