@@ -9,3 +9,14 @@ Your task is to perform an initial data and exploratory analysis of some of thei
 ## DataSet
 Open source data from Instacart and a customer data set created for the purpose of this project.
 [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
+
+## Tools
+This project uses Excel and Python. Essentially, the following tools/libraries was employed in python
+
+Anaconda 3
+Jupyter Notebook
+Pandas
+Seaborn
+Matplotlib
+Scipy
+Numpy
